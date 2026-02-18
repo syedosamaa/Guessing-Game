@@ -13,7 +13,7 @@ guessBtn.addEventListener('click', function () {
             title: "Congratulations",
             text: "You Guess Correct number",
             icon: "success",
-            confirmButtonColor:"##347aeb"
+            confirmButtonColor:"#347aeb"
         });
     }
 
